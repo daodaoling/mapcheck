@@ -1,0 +1,103 @@
+[roslaunch][INFO] 2020-07-16 13:49:02,286: Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+[roslaunch][INFO] 2020-07-16 13:49:02,288: Done checking log file disk usage. Usage is <1GB.
+[roslaunch][INFO] 2020-07-16 13:49:02,289: roslaunch starting with args ['/opt/ros/kinetic/bin/roslaunch', '/home/mapping_ws_auto/src/mapcheck/launch/rosbagcheck.launch', 'rosbag_info:=/var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/15948785413b1987a5514ef7e6.bag 5668695885f0fea4e077313091170450']
+[roslaunch][INFO] 2020-07-16 13:49:02,289: roslaunch env is {'HISTTIMEFORMAT': '%F %T www-data ', 'ROS_DISTRO': 'kinetic', 'ROS_LOG_DIR': '/home/mapping_ws_auto/src/mapcheck/logs', 'ROSLISP_PACKAGE_DIRECTORIES': '/home/mapping_ws_auto/devel/share/common-lisp', 'USER': 'www-data', 'HOME': '/var/www', 'PATH': '/opt/ros/kinetic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin', 'CMAKE_PREFIX_PATH': '/home/mapping_ws_auto/devel:/opt/ros/kinetic', 'LD_LIBRARY_PATH': '/home/mapping_ws_auto/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu', 'ROS_LOG_FILENAME': '/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/roslaunch-hecs-x-xlarge-2-linux-20200707132053-17808.log', 'SHLVL': '1', 'HISTSIZE': '10000', 'ROS_HOME': '/home/.ros/', 'ROS_MASTER_URI': 'http://localhost:11311', 'ROS_PYTHON_VERSION': '2', 'PYTHONPATH': '/home/mapping_ws_auto/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages', 'ROS_ROOT': '/opt/ros/kinetic/share/ros', 'PKG_CONFIG_PATH': '/home/mapping_ws_auto/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig', 'ROS_PACKAGE_PATH': '/home/mapping_ws_auto/src:/opt/ros/kinetic/share', '_': '/opt/ros/kinetic/bin/roslaunch', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PWD': '/var/www/html/maptoolapi', 'ROS_ETC_DIR': '/opt/ros/kinetic/etc/ros', 'ROS_VERSION': '1'}
+[roslaunch][INFO] 2020-07-16 13:49:02,289: starting in server mode
+[roslaunch.parent][INFO] 2020-07-16 13:49:02,289: starting roslaunch parent run
+[roslaunch][INFO] 2020-07-16 13:49:02,289: loading roscore config file /opt/ros/kinetic/etc/ros/roscore.xml
+[roslaunch][INFO] 2020-07-16 13:49:02,524: Added core node of type [rosout/rosout] in namespace [/]
+[roslaunch.config][INFO] 2020-07-16 13:49:02,524: loading config file /home/mapping_ws_auto/src/mapcheck/launch/rosbagcheck.launch
+[roslaunch][INFO] 2020-07-16 13:49:02,525: Added node of type [mapcheck/rosbagcheck] in namespace [/]
+[roslaunch][INFO] 2020-07-16 13:49:02,525: ... selected machine [] for node of type [mapcheck/rosbagcheck]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,525: start_process_monitor: creating ProcessMonitor
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,525: created process monitor <ProcessMonitor(ProcessMonitor-1, initial daemon)>
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,526: start_process_monitor: ProcessMonitor started
+[roslaunch.parent][INFO] 2020-07-16 13:49:02,526: starting parent XML-RPC server
+[roslaunch.server][INFO] 2020-07-16 13:49:02,526: starting roslaunch XML-RPC server
+[roslaunch.server][INFO] 2020-07-16 13:49:02,526: waiting for roslaunch XML-RPC server to initialize
+[xmlrpc][INFO] 2020-07-16 13:49:02,526: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2020-07-16 13:49:02,526: Started XML-RPC server [http://hecs-x-xlarge-2-linux-20200707132053:39919/]
+[xmlrpc][INFO] 2020-07-16 13:49:02,527: xml rpc node: starting XML-RPC server
+[roslaunch][INFO] 2020-07-16 13:49:02,538: started roslaunch server http://hecs-x-xlarge-2-linux-20200707132053:39919/
+[roslaunch.parent][INFO] 2020-07-16 13:49:02,538: ... parent XML-RPC server started
+[roslaunch][INFO] 2020-07-16 13:49:02,538: master.is_running[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,539: auto-starting new master
+[roslaunch][INFO] 2020-07-16 13:49:02,539: create_master_process: rosmaster, /opt/ros/kinetic/share/ros, 11311, 3, None
+[roslaunch][INFO] 2020-07-16 13:49:02,539: process[master]: launching with args [['rosmaster', '--core', '-p', '11311', '-w', '3']]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,539: ProcessMonitor.register[master]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,539: ProcessMonitor.register[master] complete
+[roslaunch][INFO] 2020-07-16 13:49:02,539: process[master]: starting os process
+[roslaunch][INFO] 2020-07-16 13:49:02,539: process[master]: start w/ args [['rosmaster', '--core', '-p', '11311', '-w', '3', '__log:=/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/master.log']]
+[roslaunch][INFO] 2020-07-16 13:49:02,539: process[master]: cwd will be [/home/.ros/]
+[roslaunch][INFO] 2020-07-16 13:49:02,541: process[master]: started with pid [17818]
+[roslaunch][INFO] 2020-07-16 13:49:02,541: master.is_running[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,642: master.is_running[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,743: master.is_running[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,746: master.is_running[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,747: ROS_MASTER_URI=http://localhost:11311
+[roslaunch][INFO] 2020-07-16 13:49:02,748: setting /run_id to 0d37da14-c728-11ea-9f36-fa163e744ed0
+[roslaunch][INFO] 2020-07-16 13:49:02,749: setting /roslaunch/uris/host_hecs_x_xlarge_2_linux_20200707132053__39919' to http://hecs-x-xlarge-2-linux-20200707132053:39919/
+[roslaunch][INFO] 2020-07-16 13:49:02,751: ... preparing to launch node of type [rosout/rosout]
+[roslaunch][INFO] 2020-07-16 13:49:02,751: create_node_process: package[rosout] type[rosout] machine[Machine(name[] env_loader[None] address[localhost] ssh_port[22] user[None] assignable[True] timeout[10.0])] master_uri[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,751: process[rosout-1]: env[{'HISTTIMEFORMAT': '%F %T www-data ', 'ROS_DISTRO': 'kinetic', 'ROS_LOG_DIR': '/home/mapping_ws_auto/src/mapcheck/logs', 'ROSLISP_PACKAGE_DIRECTORIES': '/home/mapping_ws_auto/devel/share/common-lisp', 'LD_LIBRARY_PATH': '/home/mapping_ws_auto/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu', 'USER': 'www-data', 'HOME': '/var/www', 'PATH': '/opt/ros/kinetic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin', 'CMAKE_PREFIX_PATH': '/home/mapping_ws_auto/devel:/opt/ros/kinetic', 'ROS_LOG_FILENAME': '/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/roslaunch-hecs-x-xlarge-2-linux-20200707132053-17808.log', 'SHLVL': '1', 'HISTSIZE': '10000', 'ROS_HOME': '/home/.ros/', 'ROS_ETC_DIR': '/opt/ros/kinetic/etc/ros', 'ROS_PYTHON_VERSION': '2', 'PYTHONPATH': '/home/mapping_ws_auto/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages', 'ROS_ROOT': '/opt/ros/kinetic/share/ros', 'PKG_CONFIG_PATH': '/home/mapping_ws_auto/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig', 'ROS_PACKAGE_PATH': '/home/mapping_ws_auto/src:/opt/ros/kinetic/share', '_': '/opt/ros/kinetic/bin/roslaunch', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PWD': '/var/www/html/maptoolapi', 'ROS_MASTER_URI': 'http://localhost:11311', 'ROS_VERSION': '1'}]
+[roslaunch][INFO] 2020-07-16 13:49:02,788: process[rosout-1]: args[[u'/opt/ros/kinetic/lib/rosout/rosout', u'__name:=rosout']]
+[roslaunch][INFO] 2020-07-16 13:49:02,788: ... created process [rosout-1]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,788: ProcessMonitor.register[rosout-1]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,788: ProcessMonitor.register[rosout-1] complete
+[roslaunch][INFO] 2020-07-16 13:49:02,788: ... registered process [rosout-1]
+[roslaunch][INFO] 2020-07-16 13:49:02,789: process[rosout-1]: starting os process
+[roslaunch][INFO] 2020-07-16 13:49:02,789: process[rosout-1]: start w/ args [[u'/opt/ros/kinetic/lib/rosout/rosout', u'__name:=rosout', u'__log:=/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/rosout-1.log']]
+[roslaunch][INFO] 2020-07-16 13:49:02,789: process[rosout-1]: cwd will be [/home/.ros/]
+[roslaunch][INFO] 2020-07-16 13:49:02,791: process[rosout-1]: started with pid [17831]
+[roslaunch][INFO] 2020-07-16 13:49:02,791: ... successfully launched [rosout-1]
+[roslaunch][INFO] 2020-07-16 13:49:02,791: load_parameters starting ...
+[roslaunch][INFO] 2020-07-16 13:49:02,794: ... load_parameters complete
+[roslaunch][INFO] 2020-07-16 13:49:02,794: launch_nodes: launching local nodes ...
+[roslaunch][INFO] 2020-07-16 13:49:02,795: ... preparing to launch node of type [mapcheck/rosbagcheck]
+[roslaunch][INFO] 2020-07-16 13:49:02,795: create_node_process: package[mapcheck] type[rosbagcheck] machine[Machine(name[] env_loader[None] address[localhost] ssh_port[22] user[None] assignable[True] timeout[10.0])] master_uri[http://localhost:11311]
+[roslaunch][INFO] 2020-07-16 13:49:02,795: process[param_test-2]: env[{'HISTTIMEFORMAT': '%F %T www-data ', 'ROS_DISTRO': 'kinetic', 'ROS_LOG_DIR': '/home/mapping_ws_auto/src/mapcheck/logs', 'ROSLISP_PACKAGE_DIRECTORIES': '/home/mapping_ws_auto/devel/share/common-lisp', 'LD_LIBRARY_PATH': '/home/mapping_ws_auto/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu', 'USER': 'www-data', 'HOME': '/var/www', 'PATH': '/opt/ros/kinetic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin', 'CMAKE_PREFIX_PATH': '/home/mapping_ws_auto/devel:/opt/ros/kinetic', 'ROS_LOG_FILENAME': '/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/roslaunch-hecs-x-xlarge-2-linux-20200707132053-17808.log', 'SHLVL': '1', 'HISTSIZE': '10000', 'ROS_HOME': '/home/.ros/', 'ROS_ETC_DIR': '/opt/ros/kinetic/etc/ros', 'ROS_PYTHON_VERSION': '2', 'PYTHONPATH': '/home/mapping_ws_auto/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages', 'ROS_ROOT': '/opt/ros/kinetic/share/ros', 'PKG_CONFIG_PATH': '/home/mapping_ws_auto/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig', 'ROS_PACKAGE_PATH': '/home/mapping_ws_auto/src:/opt/ros/kinetic/share', '_': '/opt/ros/kinetic/bin/roslaunch', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PWD': '/var/www/html/maptoolapi', 'ROS_MASTER_URI': 'http://localhost:11311', 'ROS_VERSION': '1'}]
+[roslaunch][INFO] 2020-07-16 13:49:02,796: process[param_test-2]: args[[u'/home/mapping_ws_auto/devel/lib/mapcheck/rosbagcheck', '/var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/15948785413b1987a5514ef7e6.bag', '5668695885f0fea4e077313091170450', u'__name:=param_test']]
+[roslaunch][INFO] 2020-07-16 13:49:02,796: ... created process [param_test-2]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,796: ProcessMonitor.register[param_test-2]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,796: ProcessMonitor.register[param_test-2] complete
+[roslaunch][INFO] 2020-07-16 13:49:02,796: ... registered process [param_test-2]
+[roslaunch][INFO] 2020-07-16 13:49:02,796: process[param_test-2]: starting os process
+[roslaunch][INFO] 2020-07-16 13:49:02,796: process[param_test-2]: start w/ args [[u'/home/mapping_ws_auto/devel/lib/mapcheck/rosbagcheck', '/var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/15948785413b1987a5514ef7e6.bag', '5668695885f0fea4e077313091170450', u'__name:=param_test', u'__log:=/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/param_test-2.log']]
+[roslaunch][INFO] 2020-07-16 13:49:02,796: process[param_test-2]: cwd will be [/home/.ros/]
+[roslaunch][INFO] 2020-07-16 13:49:02,798: process[param_test-2]: started with pid [17835]
+[roslaunch][INFO] 2020-07-16 13:49:02,799: ... successfully launched [param_test-2]
+[roslaunch][INFO] 2020-07-16 13:49:02,799: ... launch_nodes complete
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,799: registrations completed <ProcessMonitor(ProcessMonitor-1, started daemon 139949675235072)>
+[roslaunch.parent][INFO] 2020-07-16 13:49:02,799: ... roslaunch parent running, waiting for process exit
+[roslaunch][INFO] 2020-07-16 13:49:02,799: spin
+[roslaunch][INFO] 2020-07-16 13:49:02,927: [param_test-2] process has finished cleanly
+log file: /home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/param_test-2*.log
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,927: ProcessMonitor.unregister[param_test-2] starting
+[roslaunch.pmon][INFO] 2020-07-16 13:49:02,927: ProcessMonitor.unregister[param_test-2] complete
+[roslaunch][ERROR] 2020-07-16 13:49:25,569: ================================================================================REQUIRED process [master] has died!
+process has died [pid 17818, exit code -9, cmd rosmaster --core -p 11311 -w 3 __log:=/home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/master.log].
+log file: /home/mapping_ws_auto/src/mapcheck/logs/0d37da14-c728-11ea-9f36-fa163e744ed0/master*.log
+Initiating shutdown!
+================================================================================
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,670: ProcessMonitor._post_run <ProcessMonitor(ProcessMonitor-1, started daemon 139949675235072)>
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,670: ProcessMonitor._post_run <ProcessMonitor(ProcessMonitor-1, started daemon 139949675235072)>: remaining procs are [<roslaunch.nodeprocess.LocalProcess object at 0x7f4892cf1890>, <roslaunch.nodeprocess.LocalProcess object at 0x7f4892cf1d90>]
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,671: ProcessMonitor exit: killing rosout-1
+[roslaunch][INFO] 2020-07-16 13:49:25,671: [rosout-1] killing on exit
+[roslaunch][INFO] 2020-07-16 13:49:25,671: process[rosout-1]: killing os process with pid[17831] pgid[17831]
+[roslaunch][INFO] 2020-07-16 13:49:25,672: [rosout-1] sending SIGINT to pgid [17831]
+[roslaunch][INFO] 2020-07-16 13:49:25,672: [rosout-1] sent SIGINT to pgid [17831]
+[roslaunch][INFO] 2020-07-16 13:49:25,872: process[rosout-1]: SIGINT killed with return value 0
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,872: ProcessMonitor exit: killing master
+[roslaunch][INFO] 2020-07-16 13:49:25,872: [master] killing on exit
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,872: ProcessMonitor exit: cleaning up data structures and signals
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,872: ProcessMonitor exit: pmon has shutdown
+[roslaunch][INFO] 2020-07-16 13:49:25,933: process monitor is done spinning, initiating full shutdown
+[roslaunch][INFO] 2020-07-16 13:49:25,933: runner.stop()
+[roslaunch][INFO] 2020-07-16 13:49:25,933: shutting down processing monitor...
+[roslaunch][INFO] 2020-07-16 13:49:25,933: shutting down processing monitor <ProcessMonitor(ProcessMonitor-1, stopped daemon 139949675235072)>
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,933: ProcessMonitor.shutdown <ProcessMonitor(ProcessMonitor-1, stopped daemon 139949675235072)>
+[roslaunch][INFO] 2020-07-16 13:49:25,933: ... shutting down processing monitor complete
+[roslaunch][INFO] 2020-07-16 13:49:25,933: done
+[roslaunch.pmon][INFO] 2020-07-16 13:49:25,933: ProcessMonitor.shutdown <ProcessMonitor(ProcessMonitor-1, stopped daemon 139949675235072)>
+[rospy.core][INFO] 2020-07-16 13:49:25,933: signal_shutdown [atexit]

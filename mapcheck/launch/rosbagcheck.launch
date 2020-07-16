@@ -1,0 +1,4 @@
+<launch>
+   <arg name="rosbag_path" default="arg1 arg2"/>
+   <node pkg="mapcheck" type="rosbagcheck" name="param_test" args="$(arg rosbag_info)" output="screen"/>
+</launch>

@@ -1,0 +1,14 @@
+[rosmaster.main][INFO] 2020-07-16 14:41:41,647: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2020-07-16 14:41:41,647: Starting ROS Master Node
+[xmlrpc][INFO] 2020-07-16 14:41:41,647: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2020-07-16 14:41:41,648: Started XML-RPC server [http://hecs-x-xlarge-2-linux-20200707132053:11311/]
+[rosmaster.master][INFO] 2020-07-16 14:41:41,648: Master initialized: port[11311], uri[http://hecs-x-xlarge-2-linux-20200707132053:11311/]
+[xmlrpc][INFO] 2020-07-16 14:41:41,648: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2020-07-16 14:41:41,752: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:41:41,753: +PARAM [/roslaunch/uris/host_hecs_x_xlarge_2_linux_20200707132053__41994] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:41:41,795: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:41:41,795: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:41:41,799: +SERVICE [/rosout/get_loggers] /rosout http://hecs-x-xlarge-2-linux-20200707132053:44305/
+[rosmaster.master][INFO] 2020-07-16 14:41:41,800: +SERVICE [/rosout/set_logger_level] /rosout http://hecs-x-xlarge-2-linux-20200707132053:44305/
+[rosmaster.master][INFO] 2020-07-16 14:41:41,801: +PUB [/rosout_agg] /rosout http://hecs-x-xlarge-2-linux-20200707132053:44305/
+[rosmaster.master][INFO] 2020-07-16 14:41:41,804: +SUB [/rosout] /rosout http://hecs-x-xlarge-2-linux-20200707132053:44305/

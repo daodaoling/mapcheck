@@ -1,0 +1,3 @@
+logging to /home/mapping_ws_auto/src/mapcheck/logs/dbb5ecac-c730-11ea-9f36-fa163e744ed0/rosout.log
+re-publishing aggregated messages to /rosout_agg
+subscribed to /rosout

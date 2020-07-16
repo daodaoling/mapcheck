@@ -1,0 +1,683 @@
+[rosmaster.main][INFO] 2020-07-16 14:55:03,392: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2020-07-16 14:55:03,392: Starting ROS Master Node
+[xmlrpc][INFO] 2020-07-16 14:55:03,393: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2020-07-16 14:55:03,393: Started XML-RPC server [http://hecs-x-xlarge-2-linux-20200707132053:11311/]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,393: Master initialized: port[11311], uri[http://hecs-x-xlarge-2-linux-20200707132053:11311/]
+[xmlrpc][INFO] 2020-07-16 14:55:03,393: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2020-07-16 14:55:03,400: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,402: +PARAM [/roslaunch/uris/host_hecs_x_xlarge_2_linux_20200707132053__34511] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,446: +PARAM [/mapOptmization/historyKeyframeSearchNum] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,446: +PARAM [/use_sim_time] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node/model] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node1/max_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node1/intensity_mode] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node2/min_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node1/resolution_type] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node1/model] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node2/resolution_type] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/imageProjection/base_link] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,447: +PARAM [/cloud_node/angle_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,448: +SERVICE [/rosout/get_loggers] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,448: +PARAM [/mapOptmization/baseLineLength] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,448: +PARAM [/cloud_node1/angle_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,448: +PARAM [/mapOptmization/loopClosureSearchingRadius] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,449: +PARAM [/mapOptmization/useGPS] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,449: +SERVICE [/rosout/set_logger_level] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,449: +PARAM [/cloud_node/max_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,449: +PARAM [/cloud_node/curves_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,449: +PARAM [/mapOptmization/gpsConstraintsMinTime] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,450: +PARAM [/cloud_node1/curves_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,450: +PARAM [/cloud_node2/intensity_mode] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,450: +PARAM [/cloud_node2/model] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,450: +PARAM [/cloud_node1/min_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,451: +PARAM [/cloud_node1/channel_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,451: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,451: +PARAM [/mapOptmization/loopClosureEnableFlag] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,451: +PARAM [/cloud_node/channel_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,451: +PARAM [/mapOptmization/vertical_map_feature_grid_res] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,452: +PARAM [/mapOptmization/gpsConstraintsMinDist] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,452: +PARAM [/cloud_node/resolution_type] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,452: +PARAM [/mapOptmization/loopClosureTimeTD] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,452: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,453: +PARAM [/cloud_node2/max_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,453: +PARAM [/mapOptmization/vertical_map_feature_max_height] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,453: +PARAM [/cloud_node/intensity_mode] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,453: +PARAM [/mapOptmization/useGPSForGraphOptimization] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,454: +PARAM [/cloud_node2/curves_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,454: +PARAM [/mapOptmization/useGPSForLoopClosure] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,454: +PARAM [/cloud_node2/angle_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,454: +PARAM [/mapOptmization/globalMapVisualizationSearchRadius] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,455: +PARAM [/cloud_node2/channel_path] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,455: +SUB [/clock] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,455: +PARAM [/mapOptmization/vertical_map_feature_grid_minimum] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PARAM [/cloud_node/min_distance] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PARAM [/mapOptmization/raw_file_folder] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PARAM [/mapOptmization/vertical_map_grid_num] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PARAM [/mapOptmization/vertical_map_grid_res] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PARAM [/combineLidars/observation_sources] by /roslaunch
+[rosmaster.master][INFO] 2020-07-16 14:55:03,456: +PUB [/rosout_agg] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,460: +SUB [/rosout] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,472: +PUB [/rosout] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,473: +SERVICE [/player/get_loggers] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,473: +SERVICE [/player/set_logger_level] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,483: +PUB [/rosout] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,492: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,494: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,494: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,494: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,497: +SERVICE [/camera_init_to_map/get_loggers] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,517: +PUB [/rosout] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,527: +SERVICE [/camera_init_to_map/set_logger_level] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,538: +SERVICE [/base_link_to_camera/get_loggers] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,545: +PUB [/rosout] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,546: +PUB [/rosout] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,548: +SERVICE [/base_link_to_camera/set_logger_level] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,549: +PUB [/rosout] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,550: +PUB [/rosout] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,552: +PUB [/rosout] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,552: +SERVICE [/combineLidars/get_loggers] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,553: +PUB [/rosout] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,557: +SUB [/clock] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,558: +SERVICE [/imageProjection/get_loggers] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,558: +SERVICE [/transformFusion/get_loggers] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,561: +PUB [/rosout] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,562: +SERVICE [/featureAssociation/get_loggers] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,563: +SERVICE [/cloud_node/get_loggers] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,563: +SERVICE [/combineLidars/set_logger_level] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,564: +SERVICE [/cloud_node1/get_loggers] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,565: +PUB [/clock] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,568: +SERVICE [/imageProjection/set_logger_level] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,568: +SERVICE [/transformFusion/set_logger_level] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,569: +SERVICE [/cloud_node2/get_loggers] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,570: +SERVICE [/featureAssociation/set_logger_level] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,573: +SERVICE [/cloud_node/set_logger_level] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,573: +SERVICE [/cloud_node1/set_logger_level] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,573: +SERVICE [/player/pause_playback] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,576: +SERVICE [/cloud_node2/set_logger_level] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,579: +PUB [/rosout] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,584: +SERVICE [/mapOptmization/get_loggers] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,586: +PUB [/tf] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,590: +SERVICE [/mapOptmization/set_logger_level] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,591: +SUB [/clock] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,592: +PUB [/golfcart/imu/data] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,594: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,594: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42186/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,595: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,596: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,596: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42186/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,596: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,596: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,597: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,597: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,598: +SUB [/clock] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,598: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,599: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,599: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,599: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,600: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,600: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,600: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,601: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,601: +PUB [/tf] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,602: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,602: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,603: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,603: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/', 'http://hecs-x-xlarge-2-linux-20200707132053:43455/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,604: +PUB [/golfcart/safety_zone] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,604: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/', 'http://hecs-x-xlarge-2-linux-20200707132053:43455/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,608: +PUB [/tf] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,609: +PUB [/golfcart/gps] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,613: +SUB [/clock] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,614: +PUB [/golfcart/safety_zone_full] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,615: +SUB [/clock] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,616: +SUB [/clock] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,617: +SUB [/clock] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,618: +SUB [/clock] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,619: +SUB [/clock] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,620: +PUB [/golfcart/rs_bp_left/rslidar_packets_difop] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,621: +PUB [/tf] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,623: +PUB [/tf] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,625: +PUB [/golfcart/rs_bp_left/rslidar_packets] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,626: +SUB [/clock] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,627: +PUB [/integrated_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,631: +PUB [/golfcart/top_rs/rslidar_packets] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,636: +PUB [/golfcart/top_rs/rslidar_packets_difop] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,638: +SUB [/clock] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,643: +PUB [/tf] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,644: +SUB [/tf] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,646: +SUB [/all_obstacles] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,648: +PUB [/key_pose_origin] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,650: +PUB [/full_cloud_projected] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,652: +SUB [/segmented_cloud] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,652: +PUB [/key_pose_origin_gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,655: +PUB [/full_cloud_info] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,657: +PUB [/laser_cloud_surround] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,658: +SUB [/laser_odom_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,661: +PUB [/full_cloud_baselink] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,661: +PUB [/aft_mapped_to_init] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,665: +PUB [/sensor_height] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,665: +PUB [/final_poses] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,669: +PUB [/ground_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,670: +SUB [/tf_static] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,671: +PUB [/delete1] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,673: +PUB [/segmented_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,675: +PUB [/delete2] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,676: +SUB [/segmented_cloud_info] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,678: +PUB [/segmented_cloud_pure] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,682: +PUB [/segmented_cloud_info] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,683: +SUB [/aft_mapped_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,686: +PUB [/outlier_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,695: publisherUpdate[/segmented_cloud] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,698: +SUB [/laser_cloud_corner_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,700: +SUB [/outlier_cloud] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,709: +SUB [/cc0] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,715: +SUB [/tf] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,720: +SUB [/laser_cloud_surf_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,722: +SUB [/golfcart/imu/data] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,724: +SUB [/bb1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,724: publisherUpdate[/segmented_cloud] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,725: publisherUpdate[/segmented_cloud_info] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,726: publisherUpdate[/segmented_cloud_info] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,726: +SUB [/golfcart/top_rs/rslidar_packets_difop] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,728: +PUB [/laser_cloud_sharp] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,730: +SUB [/bb2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,731: +SUB [/cc1] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,733: +PUB [/laser_cloud_less_sharp] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,737: +PUB [/laser_cloud_flat] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,739: +SUB [/tf_static] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,740: +PUB [/cc1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,741: +PUB [/laser_cloud_less_flat] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,742: +PUB [/cc0] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,743: +SERVICE [/cloud_node1/set_parameters] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,744: +SUB [/outlier_cloud_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,745: +PUB [/laser_cloud_corner_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,746: +PUB [/cc2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,747: +SERVICE [/cloud_node/set_parameters] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,747: +PUB [/cloud_node1/parameter_descriptions] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,748: +PUB [/laser_cloud_surf_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,749: +SERVICE [/cloud_node2/set_parameters] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,750: +PUB [/cloud_node/parameter_descriptions] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,751: +PUB [/cloud_node1/parameter_updates] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,752: +PUB [/outlier_cloud_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,753: +PUB [/cloud_node2/parameter_descriptions] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,753: +PUB [/cloud_node/parameter_updates] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,754: +SUB [/cc2] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,756: +PUB [/laser_odom_to_init] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,756: +PUB [/cloud_node2/parameter_updates] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,758: +PUB [/all_obstacles] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,758: +PARAM [/cloud_node1/time_offset] by /cloud_node1
+[rosmaster.master][INFO] 2020-07-16 14:55:03,760: +PARAM [/cloud_node/time_offset] by /cloud_node
+[rosmaster.master][INFO] 2020-07-16 14:55:03,761: +PARAM [/cloud_node1/time_offset] by /cloud_node1
+[rosmaster.master][INFO] 2020-07-16 14:55:03,762: +PARAM [/cloud_node2/time_offset] by /cloud_node2
+[rosmaster.master][INFO] 2020-07-16 14:55:03,762: +PARAM [/cloud_node/time_offset] by /cloud_node
+[rosmaster.master][INFO] 2020-07-16 14:55:03,763: +SUB [/laser_odom_to_init] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,764: +PARAM [/cloud_node2/time_offset] by /cloud_node2
+[rosmaster.master][INFO] 2020-07-16 14:55:03,775: +SUB [/golfcart/imu/data] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,775: +SUB [/aa1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,776: +SUB [/golfcart/top_rs/rslidar_packets] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,777: +SUB [/aa2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,780: +SUB [/full_cloud_baselink] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,783: +SUB [/sensor_height] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,786: +SUB [/gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,787: +PUB [/history_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,791: +PUB [/corrected_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,791: +PUB [/origin_icp_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,792: +PUB [/recent_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,793: +PUB [/history_cloud_gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,793: +PUB [/mapOptmization/loop_closure_links] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:03,797: publisherUpdate[/cc1] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,799: publisherUpdate[/cc1] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,806: publisherUpdate[/cc0] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:36287/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,805: publisherUpdate[/laser_cloud_corner_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,806: publisherUpdate[/cc0] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:36287/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,806: publisherUpdate[/laser_odom_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,807: publisherUpdate[/laser_cloud_corner_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,807: publisherUpdate[/laser_odom_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,808: publisherUpdate[/laser_cloud_surf_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,808: publisherUpdate[/all_obstacles] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:46188/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,808: publisherUpdate[/laser_cloud_surf_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,808: publisherUpdate[/outlier_cloud_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:03,809: publisherUpdate[/outlier_cloud_last] -> http://hecs-x-xlarge-2-linux-20200707132053:43455/ ['http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:03,809: publisherUpdate[/all_obstacles] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:46188/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,254: -PUB [/rosout] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,255: -PUB [/tf] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,256: -PUB [/key_pose_origin] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,257: -PUB [/key_pose_origin_gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,257: -PUB [/laser_cloud_surround] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,258: -PUB [/aft_mapped_to_init] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,258: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,259: -PUB [/final_poses] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,259: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/', 'http://hecs-x-xlarge-2-linux-20200707132053:40200/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,260: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,260: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,261: -PUB [/delete1] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,261: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,262: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,262: publisherUpdate[/aft_mapped_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,262: -PUB [/delete2] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,263: publisherUpdate[/aft_mapped_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,263: -PUB [/history_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,264: -PUB [/corrected_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,265: -PUB [/origin_icp_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,265: -PUB [/recent_cloud] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,266: -PUB [/history_cloud_gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,266: -PUB [/mapOptmization/loop_closure_links] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,267: -SUB [/clock] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,268: -SUB [/laser_cloud_corner_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,268: -SUB [/laser_cloud_surf_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,269: -SUB [/outlier_cloud_last] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,269: -SUB [/laser_odom_to_init] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,270: -SUB [/golfcart/imu/data] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,271: -SUB [/full_cloud_baselink] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,271: -SUB [/sensor_height] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,272: -SUB [/gps] /mapOptmization http://hecs-x-xlarge-2-linux-20200707132053:43455/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,273: -SERVICE [/mapOptmization/get_loggers] /mapOptmization rosrpc://hecs-x-xlarge-2-linux-20200707132053:52365
+[rosmaster.master][INFO] 2020-07-16 14:55:27,273: -SERVICE [/mapOptmization/set_logger_level] /mapOptmization rosrpc://hecs-x-xlarge-2-linux-20200707132053:52365
+[rosmaster.master][INFO] 2020-07-16 14:55:27,555: -PUB [/rosout] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,556: -PUB [/cc2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,556: -PUB [/cloud_node2/parameter_descriptions] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,563: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,564: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,564: publisherUpdate[/cc2] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,565: publisherUpdate[/cc2] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,566: -PUB [/cloud_node2/parameter_updates] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,567: -SUB [/clock] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,567: -SUB [/bb2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,568: -SUB [/aa2] /cloud_node2 http://hecs-x-xlarge-2-linux-20200707132053:40200/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,569: -SERVICE [/cloud_node2/get_loggers] /cloud_node2 rosrpc://hecs-x-xlarge-2-linux-20200707132053:43737
+[rosmaster.master][INFO] 2020-07-16 14:55:27,569: -SERVICE [/cloud_node2/set_logger_level] /cloud_node2 rosrpc://hecs-x-xlarge-2-linux-20200707132053:43737
+[rosmaster.master][INFO] 2020-07-16 14:55:27,570: -SERVICE [/cloud_node2/set_parameters] /cloud_node2 rosrpc://hecs-x-xlarge-2-linux-20200707132053:43737
+[rosmaster.master][INFO] 2020-07-16 14:55:27,665: -PUB [/rosout] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,665: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,666: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:33514/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,673: -PUB [/rosout] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,677: -PUB [/rosout] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,685: -PUB [/clock] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,687: -PUB [/tf] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,693: -PUB [/all_obstacles] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,697: -PUB [/tf] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,705: -PUB [/laser_cloud_sharp] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,707: -SUB [/clock] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,718: -PUB [/golfcart/imu/data] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,727: -PUB [/laser_cloud_less_sharp] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,735: -SUB [/tf] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,741: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,742: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42186/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,742: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:46188/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,742: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,742: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42186/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,743: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,743: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:39854/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,744: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,744: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,744: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:39854/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,744: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:41990/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,745: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,745: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,745: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,745: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,745: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,746: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:41990/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,746: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,746: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,746: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,747: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,747: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,747: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,747: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:39844/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,748: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2020-07-16 14:55:27,748: -PUB [/golfcart/safety_zone] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,748: publisherUpdate[/clock] -> http://hecs-x-xlarge-2-linux-20200707132053:39844/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,749: -PUB [/laser_cloud_flat] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,749: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,749: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,750: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,750: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,750: publisherUpdate[/all_obstacles] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,751: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:42186/', 'http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,751: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,751: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,751: publisherUpdate[/all_obstacles] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,751: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,752: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:46188/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,752: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,752: publisherUpdate[/golfcart/imu/data] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,752: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:39854/', 'http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,752: publisherUpdate[/golfcart/imu/data] -> http://hecs-x-xlarge-2-linux-20200707132053:33514/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,752: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,758: -SUB [/tf_static] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,766: -PUB [/golfcart/gps] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,767: -PUB [/laser_cloud_less_flat] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,777: -PUB [/golfcart/safety_zone_full] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,778: -SUB [/cc0] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,781: -PUB [/laser_cloud_corner_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,785: -PUB [/golfcart/rs_bp_left/rslidar_packets_difop] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,790: -SUB [/cc1] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,797: -PUB [/laser_cloud_surf_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,809: -PUB [/golfcart/rs_bp_left/rslidar_packets] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,817: -SUB [/cc2] /combineLidars http://hecs-x-xlarge-2-linux-20200707132053:46188/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,829: -PUB [/outlier_cloud_last] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,836: -PUB [/golfcart/top_rs/rslidar_packets] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,845: -SERVICE [/combineLidars/get_loggers] /combineLidars rosrpc://hecs-x-xlarge-2-linux-20200707132053:37148
+[rosmaster.master][INFO] 2020-07-16 14:55:27,852: publisherUpdate[/golfcart/top_rs/rslidar_packets] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,853: -PUB [/laser_odom_to_init] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,857: publisherUpdate[/golfcart/top_rs/rslidar_packets] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,858: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,858: publisherUpdate[/laser_odom_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,858: publisherUpdate[/laser_odom_to_init] -> http://hecs-x-xlarge-2-linux-20200707132053:42100/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,858: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,861: -PUB [/golfcart/top_rs/rslidar_packets_difop] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,866: publisherUpdate[/golfcart/top_rs/rslidar_packets_difop] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,867: publisherUpdate[/golfcart/top_rs/rslidar_packets_difop] -> http://hecs-x-xlarge-2-linux-20200707132053:36287/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,867: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,873: -PUB [/rosout] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,885: -SERVICE [/combineLidars/set_logger_level] /combineLidars rosrpc://hecs-x-xlarge-2-linux-20200707132053:37148
+[rosmaster.master][INFO] 2020-07-16 14:55:27,889: -PUB [/rosout] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,901: -PUB [/rosout] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,901: -PUB [/rosout] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,905: -PUB [/rosout] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,905: -PUB [/rosout] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,909: -SUB [/clock] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,919: -SUB [/clock] /player http://hecs-x-xlarge-2-linux-20200707132053:42186/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,929: -PUB [/tf] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,933: -PUB [/tf] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,937: -PUB [/cc0] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,949: -PUB [/tf] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,950: -PUB [/cc1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,952: -PUB [/full_cloud_projected] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,953: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,953: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,953: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,954: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,954: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,954: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:36287/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,954: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/', 'http://hecs-x-xlarge-2-linux-20200707132053:39844/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ ['http://hecs-x-xlarge-2-linux-20200707132053:43870/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/rosout] -> http://hecs-x-xlarge-2-linux-20200707132053:34362/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2020-07-16 14:55:27,955: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,956: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:41990/', 'http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,956: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,956: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42100/']
+[rosmaster.master][INFO] 2020-07-16 14:55:27,956: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ ['http://hecs-x-xlarge-2-linux-20200707132053:42100/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,957: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,957: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []
+[rosmaster.master][INFO] 2020-07-16 14:55:27,957: publisherUpdate[/tf] -> http://hecs-x-xlarge-2-linux-20200707132053:43870/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2020-07-16 14:55:27,957: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2020-07-16 14:55:27,956: -SUB [/segmented_cloud] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,958: -SERVICE [/player/get_loggers] /player rosrpc://hecs-x-xlarge-2-linux-20200707132053:35390
+[rosmaster.master][INFO] 2020-07-16 14:55:27,958: -SUB [/clock] /camera_init_to_map http://hecs-x-xlarge-2-linux-20200707132053:39854/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,958: -SUB [/clock] /base_link_to_camera http://hecs-x-xlarge-2-linux-20200707132053:41990/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,959: -PUB [/cloud_node/parameter_descriptions] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,959: -PUB [/integrated_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,960: -PUB [/cloud_node1/parameter_descriptions] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,960: -PUB [/full_cloud_info] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,960: -SUB [/segmented_cloud_info] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,961: -SERVICE [/player/set_logger_level] /player rosrpc://hecs-x-xlarge-2-linux-20200707132053:35390
+[rosmaster.master][INFO] 2020-07-16 14:55:27,961: -SERVICE [/camera_init_to_map/get_loggers] /camera_init_to_map rosrpc://hecs-x-xlarge-2-linux-20200707132053:34999
+[rosmaster.master][INFO] 2020-07-16 14:55:27,962: -SERVICE [/base_link_to_camera/get_loggers] /base_link_to_camera rosrpc://hecs-x-xlarge-2-linux-20200707132053:58750
+[rosmaster.master][INFO] 2020-07-16 14:55:27,962: -PUB [/cloud_node/parameter_updates] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,962: -SUB [/clock] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,963: -PUB [/cloud_node1/parameter_updates] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,963: -PUB [/full_cloud_baselink] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,964: -SUB [/outlier_cloud] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,964: -SERVICE [/player/pause_playback] /player rosrpc://hecs-x-xlarge-2-linux-20200707132053:35390
+[rosmaster.master][INFO] 2020-07-16 14:55:27,965: -SERVICE [/camera_init_to_map/set_logger_level] /camera_init_to_map rosrpc://hecs-x-xlarge-2-linux-20200707132053:34999
+[rosmaster.master][INFO] 2020-07-16 14:55:27,965: -SERVICE [/base_link_to_camera/set_logger_level] /base_link_to_camera rosrpc://hecs-x-xlarge-2-linux-20200707132053:58750
+[rosmaster.master][INFO] 2020-07-16 14:55:27,965: -SUB [/clock] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,966: -SUB [/laser_odom_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,966: -SUB [/clock] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,967: -PUB [/sensor_height] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,967: -SUB [/golfcart/imu/data] /featureAssociation http://hecs-x-xlarge-2-linux-20200707132053:33514/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,968: -SUB [/golfcart/top_rs/rslidar_packets_difop] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,968: -SUB [/aft_mapped_to_init] /transformFusion http://hecs-x-xlarge-2-linux-20200707132053:42100/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,968: -SUB [/bb1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,969: -PUB [/ground_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,969: -SERVICE [/featureAssociation/get_loggers] /featureAssociation rosrpc://hecs-x-xlarge-2-linux-20200707132053:59365
+[rosmaster.master][INFO] 2020-07-16 14:55:27,970: -SUB [/golfcart/top_rs/rslidar_packets] /cloud_node http://hecs-x-xlarge-2-linux-20200707132053:36287/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,970: -SERVICE [/transformFusion/get_loggers] /transformFusion rosrpc://hecs-x-xlarge-2-linux-20200707132053:37054
+[rosmaster.master][INFO] 2020-07-16 14:55:27,971: -SUB [/aa1] /cloud_node1 http://hecs-x-xlarge-2-linux-20200707132053:39844/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,971: -PUB [/segmented_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,971: -SERVICE [/featureAssociation/set_logger_level] /featureAssociation rosrpc://hecs-x-xlarge-2-linux-20200707132053:59365
+[rosmaster.master][INFO] 2020-07-16 14:55:27,972: -SERVICE [/cloud_node/get_loggers] /cloud_node rosrpc://hecs-x-xlarge-2-linux-20200707132053:59483
+[rosmaster.master][INFO] 2020-07-16 14:55:27,972: -SERVICE [/transformFusion/set_logger_level] /transformFusion rosrpc://hecs-x-xlarge-2-linux-20200707132053:37054
+[rosmaster.master][INFO] 2020-07-16 14:55:27,973: -SERVICE [/cloud_node1/get_loggers] /cloud_node1 rosrpc://hecs-x-xlarge-2-linux-20200707132053:34504
+[rosmaster.master][INFO] 2020-07-16 14:55:27,973: -PUB [/segmented_cloud_pure] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,974: -SERVICE [/cloud_node/set_logger_level] /cloud_node rosrpc://hecs-x-xlarge-2-linux-20200707132053:59483
+[rosmaster.master][INFO] 2020-07-16 14:55:27,974: -SERVICE [/cloud_node1/set_logger_level] /cloud_node1 rosrpc://hecs-x-xlarge-2-linux-20200707132053:34504
+[rosmaster.master][INFO] 2020-07-16 14:55:27,974: -PUB [/segmented_cloud_info] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,975: -SERVICE [/cloud_node/set_parameters] /cloud_node rosrpc://hecs-x-xlarge-2-linux-20200707132053:59483
+[rosmaster.master][INFO] 2020-07-16 14:55:27,975: -SERVICE [/cloud_node1/set_parameters] /cloud_node1 rosrpc://hecs-x-xlarge-2-linux-20200707132053:34504
+[rosmaster.master][INFO] 2020-07-16 14:55:27,976: -PUB [/outlier_cloud] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,976: -SUB [/clock] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,977: -SUB [/all_obstacles] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,981: -SUB [/tf] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,981: -SUB [/tf_static] /imageProjection http://hecs-x-xlarge-2-linux-20200707132053:43870/
+[rosmaster.master][INFO] 2020-07-16 14:55:27,982: -SERVICE [/imageProjection/get_loggers] /imageProjection rosrpc://hecs-x-xlarge-2-linux-20200707132053:50943
+[rosmaster.master][INFO] 2020-07-16 14:55:27,983: -SERVICE [/imageProjection/set_logger_level] /imageProjection rosrpc://hecs-x-xlarge-2-linux-20200707132053:50943
+[rosmaster.master][INFO] 2020-07-16 14:55:28,257: -PUB [/rosout_agg] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:28,258: -SUB [/clock] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:28,258: -SUB [/rosout] /rosout http://hecs-x-xlarge-2-linux-20200707132053:34362/
+[rosmaster.master][INFO] 2020-07-16 14:55:28,259: -SERVICE [/rosout/get_loggers] /rosout rosrpc://hecs-x-xlarge-2-linux-20200707132053:38353
+[rosmaster.master][INFO] 2020-07-16 14:55:28,260: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://hecs-x-xlarge-2-linux-20200707132053:38353
+[rosmaster.main][INFO] 2020-07-16 14:55:28,347: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2020-07-16 14:55:28,347: stopping master...
+[rospy.core][INFO] 2020-07-16 14:55:28,347: signal_shutdown [atexit]

@@ -1,0 +1,454 @@
+2020-7-15  17:49:37 : system kill all the rosnode ! 
+2020-7-15  17:49:37 : localhost 
+2020-7-15  17:49:37 : root 
+2020-7-15  17:49:37 : pengzhao 
+2020-7-15  17:49:37 : maptool 
+2020-7-15  17:49:37 : mysql connection success ! 
+2020-7-15  17:49:37 : Get the queue_status from db 0 
+2020-7-15  17:49:37 : Get the queue_status from db 0 
+2020-7-15  17:49:37 : Get the queue_status from db 0 
+2020-7-15  17:49:37 : step out of loop ! 
+2020-7-15  17:53:59 : system kill all the rosnode result :256 
+2020-7-15  17:53:59 : localhost 
+2020-7-15  17:53:59 : root 
+2020-7-15  17:53:59 : pengzhao 
+2020-7-15  17:53:59 : maptool 
+2020-7-15  17:53:59 : mysql connection success ! 
+2020-7-15  17:53:59 : Get the queue_status from db 0 
+2020-7-15  17:53:59 : Get the queue_status from db 0 
+2020-7-15  17:53:59 : Get the queue_status from db 0 
+2020-7-15  17:53:59 : step out of loop ! 
+2020-7-15  17:59:20 : system kill all the rosnode result :256 
+2020-7-15  17:59:20 : localhost 
+2020-7-15  17:59:20 : root 
+2020-7-15  17:59:20 : pengzhao 
+2020-7-15  17:59:20 : maptool 
+2020-7-15  17:59:20 : mysql connection success ! 
+2020-7-15  17:59:20 : Get the queue_status from db 0 
+2020-7-15  17:59:20 : Get the queue_status from db 0 
+2020-7-15  17:59:20 : Get the queue_status from db 0 
+2020-7-15  17:59:20 : step out of loop ! 
+2020-7-15  17:59:45 : system kill all the rosnode result :256 
+2020-7-15  17:59:45 : localhost 
+2020-7-15  17:59:45 : root 
+2020-7-15  17:59:45 : pengzhao 
+2020-7-15  17:59:45 : maptool 
+2020-7-15  17:59:45 : mysql connection success ! 
+2020-7-15  17:59:45 : Get the queue_status from db 1 
+2020-7-15  17:59:46 :  
+2020-7-15  17:59:46 : Get the queue_status from db 1 
+2020-7-15  17:59:46 :  
+2020-7-15  17:59:46 : Get the queue_status from db 0 
+2020-7-15  17:59:46 : Get the queue_status from db 1 
+2020-7-15  17:59:46 :  
+2020-7-15  17:59:46 : Get the queue_status from db 0 
+2020-7-15  17:59:46 : Get the queue_status from db 0 
+2020-7-15  17:59:46 : step out of loop ! 
+2020-7-15  18:3:31 : system kill all the rosnode result :256 
+2020-7-15  18:3:31 : localhost 
+2020-7-15  18:3:31 : root 
+2020-7-15  18:3:31 : pengzhao 
+2020-7-15  18:3:31 : maptool 
+2020-7-15  18:3:31 : mysql connection success ! 
+2020-7-15  18:3:31 : Get the queue_status from db 0 
+2020-7-15  18:3:31 : Get the queue_status from db 0 
+2020-7-15  18:3:31 : Get the queue_status from db 0 
+2020-7-15  18:3:31 : step out of loop ! 
+2020-7-15  18:3:52 : system kill all the rosnode result :256 
+2020-7-15  18:3:52 : localhost 
+2020-7-15  18:3:52 : root 
+2020-7-15  18:3:52 : pengzhao 
+2020-7-15  18:3:52 : maptool 
+2020-7-15  18:3:52 : mysql connection success ! 
+2020-7-15  18:3:52 : Get the queue_status from db 1 
+2020-7-15  18:3:52 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-15  18:3:52 :  
+2020-7-15  18:3:52 : Get the queue_status from db 1 
+2020-7-15  18:3:52 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-15  18:3:52 :  
+2020-7-15  18:3:52 : Get the queue_status from db 0 
+2020-7-15  18:3:52 : Get the queue_status from db 1 
+2020-7-15  18:3:52 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-15  18:3:52 :  
+2020-7-15  18:3:52 : Get the queue_status from db 0 
+2020-7-15  18:3:52 : Get the queue_status from db 0 
+2020-7-15  18:3:52 : step out of loop ! 
+2020-7-16  10:1:33 : system kill all the rosnode result :256 
+2020-7-16  10:1:33 : localhost 
+2020-7-16  10:1:33 : root 
+2020-7-16  10:1:33 : pengzhao 
+2020-7-16  10:1:33 : maptool 
+2020-7-16  10:1:33 : mysql connection success ! 
+2020-7-16  10:1:33 : Get the queue_status from db 0 
+2020-7-16  10:1:33 : Get the queue_status from db 0 
+2020-7-16  10:1:33 : Get the queue_status from db 0 
+2020-7-16  10:1:33 : step out of loop ! 
+2020-7-16  10:1:39 : system kill all the rosnode result :256 
+2020-7-16  10:1:39 : localhost 
+2020-7-16  10:1:39 : root 
+2020-7-16  10:1:39 : pengzhao 
+2020-7-16  10:1:39 : maptool 
+2020-7-16  10:1:39 : mysql connection success ! 
+2020-7-16  10:1:39 : Get the queue_status from db 0 
+2020-7-16  10:1:39 : Get the queue_status from db 0 
+2020-7-16  10:1:39 : Get the queue_status from db 0 
+2020-7-16  10:1:39 : step out of loop ! 
+2020-7-16  10:2:0 : system kill all the rosnode result :256 
+2020-7-16  10:2:0 : localhost 
+2020-7-16  10:2:0 : root 
+2020-7-16  10:2:0 : pengzhao 
+2020-7-16  10:2:0 : maptool 
+2020-7-16  10:2:0 : mysql connection success ! 
+2020-7-16  10:2:0 : Get the queue_status from db 1 
+2020-7-16  10:2:0 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:2:0 : Get the queue_status from db 1 
+2020-7-16  10:2:0 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:2:1 : Get the queue_status from db 0 
+2020-7-16  10:2:1 : Get the queue_status from db 1 
+2020-7-16  10:2:1 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:2:1 : Get the queue_status from db 0 
+2020-7-16  10:2:1 : Get the queue_status from db 0 
+2020-7-16  10:2:1 : step out of loop ! 
+2020-7-16  10:6:36 : system kill all the rosnode result :256 
+2020-7-16  10:6:36 : localhost 
+2020-7-16  10:6:36 : root 
+2020-7-16  10:6:36 : pengzhao 
+2020-7-16  10:6:36 : maptool 
+2020-7-16  10:6:36 : mysql connection success ! 
+2020-7-16  10:6:36 : Get the queue_status from db 0 
+2020-7-16  10:6:36 : Get the queue_status from db 0 
+2020-7-16  10:6:36 : Get the queue_status from db 0 
+2020-7-16  10:6:36 : step out of loop ! 
+2020-7-16  10:6:47 : system kill all the rosnode result :256 
+2020-7-16  10:6:47 : localhost 
+2020-7-16  10:6:47 : root 
+2020-7-16  10:6:47 : pengzhao 
+2020-7-16  10:6:47 : maptool 
+2020-7-16  10:6:47 : mysql connection success ! 
+2020-7-16  10:6:47 : Get the queue_status from db 1 
+2020-7-16  10:6:47 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:6:47 : Get the queue_status from db 1 
+2020-7-16  10:6:47 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:6:47 : Get the queue_status from db 0 
+2020-7-16  10:6:47 : Get the queue_status from db 1 
+2020-7-16  10:6:47 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:6:47 : Get the queue_status from db 0 
+2020-7-16  10:6:47 : Get the queue_status from db 0 
+2020-7-16  10:6:47 : step out of loop ! 
+2020-7-16  10:9:58 : system kill all the rosnode result :256 
+2020-7-16  10:9:58 : localhost 
+2020-7-16  10:9:58 : root 
+2020-7-16  10:9:58 : pengzhao 
+2020-7-16  10:9:58 : maptool 
+2020-7-16  10:9:58 : mysql connection success ! 
+2020-7-16  10:9:58 : Get the queue_status from db 1 
+2020-7-16  10:9:58 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:9:59 : Get the queue_status from db 1 
+2020-7-16  10:9:59 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:9:59 : Get the queue_status from db 0 
+2020-7-16  10:9:59 : Get the queue_status from db 1 
+2020-7-16  10:9:59 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:9:59 : Get the queue_status from db 0 
+2020-7-16  10:9:59 : Get the queue_status from db 0 
+2020-7-16  10:9:59 : step out of loop ! 
+2020-7-16  10:15:34 : system kill all the rosnode result :256 
+2020-7-16  10:15:34 : localhost 
+2020-7-16  10:15:34 : root 
+2020-7-16  10:15:34 : pengzhao 
+2020-7-16  10:15:34 : maptool 
+2020-7-16  10:15:34 : mysql connection success ! 
+2020-7-16  10:15:34 : Get the queue_status from db 0 
+2020-7-16  10:15:34 : Get the queue_status from db 0 
+2020-7-16  10:15:34 : Get the queue_status from db 0 
+2020-7-16  10:15:34 : step out of loop ! 
+2020-7-16  10:15:42 : system kill all the rosnode result :256 
+2020-7-16  10:15:42 : localhost 
+2020-7-16  10:15:42 : root 
+2020-7-16  10:15:42 : pengzhao 
+2020-7-16  10:15:42 : maptool 
+2020-7-16  10:15:42 : mysql connection success ! 
+2020-7-16  10:15:42 : Get the queue_status from db 1 
+2020-7-16  10:15:42 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:15:42 : map generate failed !re:256sys_result:1 
+2020-7-16  10:15:42 : Get the queue_status from db 1 
+2020-7-16  10:15:42 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:15:42 : map generate failed !re:256sys_result:1 
+2020-7-16  10:15:42 : Get the queue_status from db 0 
+2020-7-16  10:15:42 : Get the queue_status from db 1 
+2020-7-16  10:15:42 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:15:43 : map generate failed !re:256sys_result:1 
+2020-7-16  10:15:43 : Get the queue_status from db 0 
+2020-7-16  10:15:43 : Get the queue_status from db 0 
+2020-7-16  10:15:43 : step out of loop ! 
+2020-7-16  10:41:17 : system kill all the rosnode result :256 
+2020-7-16  10:41:17 : localhost 
+2020-7-16  10:41:17 : root 
+2020-7-16  10:41:17 : pengzhao 
+2020-7-16  10:41:17 : maptool 
+2020-7-16  10:41:17 : mysql connection success ! 
+2020-7-16  10:41:17 : Get the queue_status from db 0 
+2020-7-16  10:41:17 : Get the queue_status from db 0 
+2020-7-16  10:41:17 : Get the queue_status from db 0 
+2020-7-16  10:41:17 : step out of loop ! 
+2020-7-16  10:41:26 : system kill all the rosnode result :256 
+2020-7-16  10:41:26 : localhost 
+2020-7-16  10:41:26 : root 
+2020-7-16  10:41:26 : pengzhao 
+2020-7-16  10:41:26 : maptool 
+2020-7-16  10:41:26 : mysql connection success ! 
+2020-7-16  10:41:26 : Get the queue_status from db 1 
+2020-7-16  10:41:26 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:41:26 : map generate failed !re:256sys_result:1 
+2020-7-16  10:41:26 : Get the queue_status from db 1 
+2020-7-16  10:41:26 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:41:26 : map generate failed !re:256sys_result:1 
+2020-7-16  10:41:26 : Get the queue_status from db 0 
+2020-7-16  10:41:26 : Get the queue_status from db 1 
+2020-7-16  10:41:26 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:41:26 : map generate failed !re:256sys_result:1 
+2020-7-16  10:41:26 : Get the queue_status from db 0 
+2020-7-16  10:41:26 : Get the queue_status from db 0 
+2020-7-16  10:41:26 : step out of loop ! 
+2020-7-16  10:43:42 : system kill all the rosnode result :256 
+2020-7-16  10:43:42 : localhost 
+2020-7-16  10:43:42 : root 
+2020-7-16  10:43:42 : pengzhao 
+2020-7-16  10:43:42 : maptool 
+2020-7-16  10:43:43 : mysql connection success ! 
+2020-7-16  10:43:43 : Get the queue_status from db 0 
+2020-7-16  10:43:43 : Get the queue_status from db 0 
+2020-7-16  10:43:43 : Get the queue_status from db 0 
+2020-7-16  10:43:43 : step out of loop ! 
+2020-7-16  10:43:52 : system kill all the rosnode result :256 
+2020-7-16  10:43:52 : localhost 
+2020-7-16  10:43:52 : root 
+2020-7-16  10:43:52 : pengzhao 
+2020-7-16  10:43:52 : maptool 
+2020-7-16  10:43:52 : mysql connection success ! 
+2020-7-16  10:43:52 : Get the queue_status from db 1 
+2020-7-16  10:43:52 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12132434ww54354dfetgf.launch 
+2020-7-16  10:43:52 : Some file are not found ! 
+2020-7-16  10:43:52 : map generate failed !re:256sys_result:1 
+2020-7-16  10:43:52 : Get the queue_status from db 1 
+2020-7-16  10:43:52 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:43:52 : Some file are not found ! 
+2020-7-16  10:43:53 : map generate failed !re:256sys_result:1 
+2020-7-16  10:43:53 : Get the queue_status from db 0 
+2020-7-16  10:43:53 : Get the queue_status from db 1 
+2020-7-16  10:43:53 : roslaunch /var/www/html/maptoolapi/uploads/set_arg_and_run12dhsghd34w7832873dfetgf.launch 
+2020-7-16  10:43:53 : Some file are not found ! 
+2020-7-16  10:43:53 : map generate failed !re:256sys_result:1 
+2020-7-16  10:43:53 : Get the queue_status from db 0 
+2020-7-16  10:43:53 : Get the queue_status from db 0 
+2020-7-16  10:43:53 : step out of loop ! 
+2020-7-16  10:50:55 : system kill all the rosnode result :256 
+2020-7-16  10:50:55 : localhost 
+2020-7-16  10:50:55 : root 
+2020-7-16  10:50:55 : pengzhao 
+2020-7-16  10:50:55 : maptool 
+2020-7-16  10:50:55 : mysql connection success ! 
+2020-7-16  10:50:56 : Get the queue_status from db 0 
+2020-7-16  10:50:56 : Get the queue_status from db 0 
+2020-7-16  10:50:56 : Get the queue_status from db 0 
+2020-7-16  10:50:56 : step out of loop ! 
+2020-7-16  13:21:31 : system kill all the rosnode result :0 
+2020-7-16  13:21:31 : localhost 
+2020-7-16  13:21:31 : root 
+2020-7-16  13:21:31 : ventimysql 
+2020-7-16  13:21:31 : maptool 
+2020-7-16  13:21:31 : mysql connection success ! 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : Get the queue_status from db 0 
+2020-7-16  13:21:31 : step out of loop ! 
+2020-7-16  13:21:42 : system kill all the rosnode result :256 
+2020-7-16  13:21:42 : localhost 
+2020-7-16  13:21:42 : root 
+2020-7-16  13:21:42 : ventimysql 
+2020-7-16  13:21:42 : maptool 
+2020-7-16  13:21:42 : mysql connection success ! 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : Get the queue_status from db 0 
+2020-7-16  13:21:42 : step out of loop ! 
+2020-7-16  14:37:47 : system kill all the rosnode result :256 
+2020-7-16  14:37:47 : localhost 
+2020-7-16  14:37:47 : root 
+2020-7-16  14:37:47 : ventimysql 
+2020-7-16  14:37:47 : maptool 
+2020-7-16  14:37:47 : mysql connection success ! 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : Get the queue_status from db 0 
+2020-7-16  14:37:47 : step out of loop ! 
+2020-7-16  14:52:4 : system kill all the rosnode result :256 
+2020-7-16  14:52:4 : localhost 
+2020-7-16  14:52:4 : root 
+2020-7-16  14:52:4 : ventimysql 
+2020-7-16  14:52:4 : maptool 
+2020-7-16  14:52:4 : mysql connection success ! 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 0 
+2020-7-16  14:52:4 : Get the queue_status from db 1 
+2020-7-16  14:52:4 : roslaunch /var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/set_arg_and_run_15948817723b1987a5514ef7e6.launch 
+2020-7-16  14:52:32 : Some file are not modifid in 5 min ! 
+2020-7-16  14:52:32 : map generate failed !re:0sys_result:0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : Get the queue_status from db 0 
+2020-7-16  14:52:32 : step out of loop ! 
+2020-7-16  14:55:2 : system kill all the rosnode result :256 
+2020-7-16  14:55:2 : localhost 
+2020-7-16  14:55:2 : root 
+2020-7-16  14:55:2 : ventimysql 
+2020-7-16  14:55:2 : maptool 
+2020-7-16  14:55:2 : mysql connection success ! 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 0 
+2020-7-16  14:55:2 : Get the queue_status from db 1 
+2020-7-16  14:55:2 : roslaunch /var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/set_arg_and_run_15948817723b1987a5514ef7e6.launch 
+2020-7-16  14:55:28 : Some file are not modifid in 5 min ! 
+2020-7-16  14:55:28 : map generate failed !re:0sys_result:0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : Get the queue_status from db 0 
+2020-7-16  14:55:28 : step out of loop ! 
+2020-7-16  15:0:37 : system kill all the rosnode result :256 
+2020-7-16  15:0:37 : localhost 
+2020-7-16  15:0:37 : root 
+2020-7-16  15:0:37 : ventimysql 
+2020-7-16  15:0:37 : maptool 
+2020-7-16  15:0:37 : mysql connection success ! 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 0 
+2020-7-16  15:0:37 : Get the queue_status from db 1 
+2020-7-16  15:0:37 : roslaunch /var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/set_arg_and_run_15948817723b1987a5514ef7e6.launch 
+2020-7-16  15:1:8 : Some file are not modifid in 5 min ! 
+2020-7-16  15:1:8 : map generate failed !re:0sys_result:0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : Get the queue_status from db 0 
+2020-7-16  15:1:8 : step out of loop ! 
+2020-7-16  15:42:37 : system kill all the rosnode result :256 
+2020-7-16  15:42:37 : localhost 
+2020-7-16  15:42:37 : root 
+2020-7-16  15:42:37 : ventimysql 
+2020-7-16  15:42:37 : maptool 
+2020-7-16  15:42:37 : mysql connection success ! 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 0 
+2020-7-16  15:42:37 : Get the queue_status from db 1 
+2020-7-16  15:42:37 : roslaunch /var/www/html/maptoolapi/uploads/file_material/20200716/8007458835f0c04ad6886d8093858589/set_arg_and_run_15948817723b1987a5514ef7e6.launch 
+2020-7-16  15:43:3 : New file generated correctly ! 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : Get the queue_status from db 0 
+2020-7-16  15:43:3 : step out of loop ! 
